@@ -1,7 +1,7 @@
 search_tweets_api:
   account_type: premium
   endpoint: https://api.twitter.com/1.1/tweets/search/fullarchive/rainforest.json
-  consumer_key: vrOCfbMD0lm3htYzvlFjmSM96
-  consumer_secret: hQctlLwyEcQUWNPRkc9iT2Kl8lp6dRCKRUfPbmy1yOK5gE1Gfl
+  consumer_key: myKey
+  consumer_secret: myKey
   
 
